@@ -136,6 +136,7 @@
 - [HyperLeafy] (https://github.com/HyperLeafy)
 - [Prateek Yadav] (https://github.com/prateeky477)
 - [YL]
+- [rienet]
 - [Emily Arnold] 
 - [Chad Kreiger]
 - [Jeffin T.J] (https://github.com/jeffintj75991)
